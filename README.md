@@ -1,6 +1,7 @@
 
 # HR Data Analysis: Unveiling the Secrets of Psyliq's Workforce
 
+![image](https://github.com/shashank-s99/HR-Data-Analysis/assets/145201493/8f09ae11-3803-48a7-9e2d-415b3e12c5bc)
 
 
 
