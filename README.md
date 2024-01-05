@@ -30,7 +30,7 @@ As a Data Analyst Intern at Psyliq, I embarked on a thrilling journey to unlock 
 
 - Excel: Data cleaning, manipulation, analysis, and visualization.
 
-- Power BI: Interactive dashboard development, data exploration, and visualization.
+- Power BI: Interactive dashboard development, data exploration, and visualization. Dashboard link - https://www.novypro.com/project/hr-data-analysis-20
 
 - DAX: Crafting calculated columns and measures for deeper insights.
 ## Conclusion:
